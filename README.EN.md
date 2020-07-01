@@ -1,6 +1,6 @@
 #### The world's top 30 virtual currency exchanges 
 
-#### The only set of golang source code in the whole network
+#### The only set of golang source code in the whole world
 
 
 
@@ -23,9 +23,9 @@
 4. After the background management system-golang
 5. Wallet-golang (support mainstream public chain)
 6. Core matching server -c
-7. otc management system front-end-vue
-8. otc backend-golang
-9. otc management system backend-golang
+7. Otc management system front-end-vue
+8. Otc backend-golang
+9. Otc management system backend-golang
 10. Active front end-vue
 11. Active backend-golang
 
@@ -33,7 +33,7 @@
 
 13: iOS
 
-14: k-line robot-golang (trader)
+14: K-line robot-golang (trader)
 
 15: Full set of api documents
 
@@ -44,7 +44,7 @@
 ###### Main module for background management
 
 1. Risk management
-2. authority management
+2. Authority management
 3. Deposit and withdrawal management
 4. User Management
 5. Substation management
@@ -55,7 +55,7 @@
 
 
 
-###### overview
+###### verview
 
 ![image-20200701141742118](http://tuchuang-mft.oss-cn-hangzhou.aliyuncs.com/2020-07-01-061742.png)
 
@@ -75,7 +75,7 @@
 
 
 
-###### api Document
+###### API Document
 
 ![image-20200511204923268](http://fangtaoma.oss-cn-shanghai.aliyuncs.com/2020-05-11-124923.png)
 
