@@ -1,3 +1,7 @@
+EXCHANGE
+
+<font color=7fff00 size=20>    [中文](./README.MD)/[Enlish](./README.EN.md)</font>
+
 #### The world's top 30 virtual currency exchanges 
 
 #### The only set of golang source code in the whole world
@@ -91,6 +95,7 @@ This set of code has perfect functions and can be directly operated after deploy
 
 ```
 The important thing is said 3 times:
+
 Baishen Party goes out and turns left!
 Baishen Party goes out and turns left!
 Baishen Party goes out and turns left!
@@ -103,3 +108,5 @@ Everyone is busy, if you're sincere!
 ```
 
 
+
+<font color=#adff2f size=72>yamaxun1989@gmail.com</font>
